@@ -1,1 +1,55 @@
+.title {
+	background-color: #FF8C00;
+	width: 300px;
+	height: 100px;
+	text-align: center;
+	padding-top: 25px;
+}
 
+.rules {
+	background-color: #FAEBD7;
+	width: 400px;
+	height: 400px;
+	font-weight: bold;
+	color: green;
+	padding: 10px;
+
+}
+
+
+.background {
+	background-image: url("C:/Users/santa/week-4-game/assets/images/background.jpg")
+}
+
+.startingNum {
+	background-color: #8FBC8F;
+	width: 150px;
+	height: 200px;
+	float: left;
+}
+
+.score {
+	background-color: #00FFFF;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-left: 5px;
+
+}
+
+
+#startscore {
+	overflow: hidden;
+}
+
+
+.yourScore {
+	background-color: #8FBC8F;
+	width: 200px;
+}
+
+.currentNum {
+	background-color: #8FBC8F;
+	width: 150px;
+	height: 200px;
+}
