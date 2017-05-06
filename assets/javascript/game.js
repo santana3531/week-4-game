@@ -11,4 +11,5 @@ function firstNum(min, max)
 console.log(randomNum);
 console.log('hello');
 
-$(".startingNum").html(randomNum);
+$(".startingNum").html(firstNum);
+	console.log(firstNum);
